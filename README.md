@@ -19,7 +19,7 @@ It also visualizes segment-wise mass transfer resistance (Δy / (y − y*)) to p
 
 ## Live Demo
 
-Click here to try the app: (https://your-link.streamlit.app)  
+Click here to try the app: (https://absorption-column-calculator-5p4unw3raqhtyhnfm5bbxc.streamlit.app)
 
 
 ---
