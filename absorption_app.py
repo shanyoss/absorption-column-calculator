@@ -47,11 +47,11 @@ else:
         H_OG = G / KGa
         Z = H_OG * N_OG
 
-        st.subheader("📏 Calculated Tower Height:")
+        st.subheader("Calculated Tower Height:")
         st.success(f"Z = {Z:.5f} meters")
 
         # --- Plot ---
-        st.subheader("📊 Mass Transfer Resistance per Segment")
+        st.subheader("Mass Transfer Resistance per Segment")
         fig, ax = plt.subplots()
         ax.bar(range(1, n + 1), resistance, color="#3399ff")
         ax.set_xlabel("Segment")
