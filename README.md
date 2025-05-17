@@ -30,7 +30,7 @@ Click here to try the app: (https://absorption-column-calculator-5p4unw3raqhtyhn
 2. Computes driving force and resistance per segment  
 3. Calculates number of overall gas transfer units (N_OG)  
 4. Estimates tower height using:  
-   Z = H_OG × N_OG, where H_OG = G / KGa
+   Z = HOG × NOG, where HOG = G / KGa
 
 ---
 
