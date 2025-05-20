@@ -50,7 +50,7 @@ else:
         st.subheader("Calculated Tower Height:")
         st.success(f"Z = {Z:.5f} meters")
 
-        # --- Plot ---
+        # Plot
         st.subheader("Mass Transfer Resistance per Segment")
         fig, ax = plt.subplots()
         ax.bar(range(1, n + 1), resistance, color="#3399ff")
